@@ -1,3 +1,5 @@
+> **This repo predates Ancillary v1, the current canon.** Start at [TramEFX/ancillary](https://github.com/TramEFX/ancillary).
+
 # Ancillary Web
 
 **Open-source web application for the Ancillary Protocol**
